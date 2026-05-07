@@ -1,0 +1,22 @@
+# ⛅ Site de Tempo
+
+Aplicação web desenvolvida com **HTML5, CSS3 e JavaScript** para consulta de informações climáticas de cidades em tempo real.
+
+## 🚀 Funcionalidades
+
+- Buscar clima de cidades
+- Exibir temperatura atual
+- Mostrar condições climáticas
+- Interface dinâmica e responsiva
+
+## 🛠️ Tecnologias
+
+- HTML5
+- CSS3
+- JavaScript
+
+## 📸 Preview
+
+![Preview](./preview.png)
+
+---
